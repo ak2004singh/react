@@ -1,0 +1,36 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "learning react",
+  "keywords": [
+    "no"
+  ],
+  "homepage": "https://github.com/ak2004singh/react#readme",
+  "bugs": {
+    "url": "https://github.com/ak2004singh/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak2004singh/react.git"
+  },
+  "license": "ISC",
+  "author": "Aditya",
+  "type": "commonjs",
+  "main": "app.js",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
